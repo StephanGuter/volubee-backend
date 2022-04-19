@@ -1,0 +1,11 @@
+{
+  "name": "volubee-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/StephanGuter/volubee-backend.git",
+  "author": "StephanGuter <51406643+StephanGuter@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
